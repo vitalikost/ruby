@@ -6,3 +6,4 @@ surname = gets.chomp
 puts "Введите свое Отчество:"
 patronymic = gets.chomp
 puts 'Доброго времени суток!' + name +' '+patronymic+' '+surname
+sleep(5)
