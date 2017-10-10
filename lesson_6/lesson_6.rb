@@ -8,6 +8,7 @@ puts beer.to_s+' бутилок пива на стене'
 	else
 		puts 'Осталось '+beer.to_s+' бутилок пива на стене'
 		puts beer.to_s+' бутилок пива на стене'
+
 	end
 end
 sleep(5)
