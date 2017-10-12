@@ -1,5 +1,5 @@
 
-puts 'Введите начальный год: '
+puts 'Введите начальный год:'
 a = gets.chomp.to_i 
 puts 'Введите конечный год:'
 b = gets.chomp.to_i 
